@@ -9,7 +9,7 @@ This is a fairly simple code for facial recognition, using OpenCV2 and imutils
 
 **Start the code**
 
-Make sure you have **deploy.prototxt.txt** file and the **Caffee Model** in your working directory 
+Make sure you have **deploy.prototxt.txt** file and the **Caffe Model** in your working directory 
 
 `$ python detect_face.py --prototxt deploy.prototxt.txt --model res10_300x300_ssd_item_140000.caffemodel`
 
